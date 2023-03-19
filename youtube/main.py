@@ -6,7 +6,7 @@ import csv
 from url_work import *
 from database_work import *
 
-CREDENTIALS = "AIzaSyDhXYTqFu8gnhakdR-bsdxq-uVKgfW5QBo"
+CREDENTIALS = ""
 YOUTUBE_API_SERVICE_NAME = 'youtube'
 YOUTUBE_API_VERSION = 'v3'
 YOUTUBE_CHANNEL_ID = 'UCt7sv-NKh44rHAEb-qCCxvA'
